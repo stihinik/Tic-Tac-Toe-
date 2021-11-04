@@ -1,0 +1,3 @@
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\Debug\Tic Tac Toe.vcxproj.AssemblyReference.cache
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\Debug\TicTacToe.GameForm.resources
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\Debug\Tic Tac Toe.vcxproj.GenerateResource.cache

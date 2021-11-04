@@ -1,0 +1,2 @@
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\Release\TicTacToe.GameForm.resources
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\Release\Tic Tac Toe.vcxproj.GenerateResource.cache

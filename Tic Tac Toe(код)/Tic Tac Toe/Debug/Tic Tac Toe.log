@@ -1,0 +1,4 @@
+﻿  GameForm.cpp
+C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Tic Tac Toe\GameForm.cpp(122,19): warning C4018: <: несоответствие типов со знаком и без знака
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Tic Tac Toe.vcxproj -> C:\Users\stihi\Desktop\TT_TicTacToe\Tic Tac Toe\Debug\Tic Tac Toe.exe
